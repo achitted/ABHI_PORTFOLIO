@@ -1,0 +1,87 @@
+html{
+    background-color:#9ab5f0;
+    font-family:sans-serif;
+}
+.container{
+    padding-top: 80px;
+}
+.left{
+    float: left;
+    width:50%;
+}
+img{
+    width: 430px;
+    height: 450px;
+    float: right;
+}
+.right{
+    float: left;
+    width:50%;
+    height: 450px;
+}
+h1{
+    color:rgb(228, 65, 65);
+    font-size: 40px;
+}
+.sub_right{
+    color:black;
+    margin-left: 40px;
+}
+p{
+    line-height: 1.6;
+    padding-right: 9em;
+}
+.project{
+    text-align: center;
+    padding-top: 480px;
+}
+.project h3{
+    color: rgb(228, 65, 65);
+}
+.h5{
+    margin-top: -15px;
+}
+.p1-img{
+    margin:15px 331px;
+    width: 561px;
+    height: 383px;
+    padding-bottom: 22px;
+}
+.content{
+    text-align: left;
+    margin: 0 20%;
+}
+.content p{
+    font-size: 16px;
+    margin-top: -10px;
+}
+p span{
+    font-size: 18px;
+    padding-bottom: 5px;
+}
+.personal_details {
+    background-color:#c0d3fc ;
+    padding: 10px;
+    border: 2px solid #333;
+    text-align: center;
+    font-size: 18px;
+  }
+  
+  .personal_details h2 {
+    font-size: 24px;
+    text-decoration: none;
+    margin-bottom: 10px;
+  }
+  
+  .personal_details a {
+    text-decoration: none; /* Remove underline */
+    color: #333;
+    padding-top: 10px;
+  }
+  .copy{
+    font-style: italic;
+    padding-right: 0;
+  }
+  footer{
+    text-align: center;
+  }
